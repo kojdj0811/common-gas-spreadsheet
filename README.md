@@ -1,4 +1,1 @@
-\[README](https://github.com/google/clasp/)
-
-
-
+[README](https://github.com/google/clasp/)
